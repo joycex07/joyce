@@ -1,0 +1,17 @@
+1. Redshift, measuring muon lifetimes, exoplanet detections, graphing/visualizing solar system, gravitational lensing
+2. 
+	1. Exoplanet detections https://science.nasa.gov/exoplanets/how-we-find-and-characterize/
+	In this article, the authors gave a brief overview of the types of detection methods that are used to search for exoplanets. Specifically, they talked about radial velocity, transit spectroscopy, gravitational microlensing, direct imaging, coronagraph, and star shade. 
+	2. Gravitational Lensing https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravitational-lenses/
+	In this article, they introduced the concept of gravitational lensing, where light bends, distorts, and magnifies as it passes around a massive object. Today, gravitational lensing is used in the Hubble Space Telescope mission, where for the first time, they measured the mass of a lone white dwarf by seeing how much its gravity deflected the light from a background star. 
+	3. Redshift https://www.esa.int/Science_Exploration/Space_Science/What_is_red_shift
+	In this article, they introduced the "red shift", where it can be understood as when the wavelength of the light is stretched, the light is shed as "shifted" towards the red part of the spectrum. Since light behaves like a wave, it undergoes a Doppler-like shift if the source is moving relative to us. When a galaxy is moving away from use (universe expansion), light from the galaxies is shifted to longer wavelengths, where it gets redder, understood as "red-shifted".
+3. Exoplanet detections 
+- Lists/dictionaries to store and organize plant data
+- Loops search and filter datasets
+- Conditionals provide filters to dataset
+- Functions from NumPy, Matplotlib to graph out data and have visual display
+- Libraries: pandas, Matplotlib, NumPy
+4. 
+	1)Create a website or app where people can visualize data and see what's going on. They can filter out what they are specifically looking for, and this platform can also show them graphs of what they are looking for, and all the data are in one place.
+	2) Go through the planet data and create a visualization of detection methods used or something and the pattern and trends for the planets discovered for each method.
